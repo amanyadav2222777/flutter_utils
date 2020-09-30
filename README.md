@@ -4,7 +4,8 @@
 
 A common utils Flutter package project.
 
-## Add Dependency
+## To Use 
+⚠️ Add Dependency
 
 ```yaml
 dependencies:
